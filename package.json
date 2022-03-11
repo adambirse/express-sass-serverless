@@ -1,0 +1,13 @@
+{
+  "name": "express-sass-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.3",
+    "serverless-http": "^2.7.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^8.5.0"
+  }
+}
